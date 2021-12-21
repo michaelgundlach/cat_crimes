@@ -1,0 +1,15 @@
+Run solve.sh to solve my kids' Cat Crimes logic game Expert #40 puzzle.  
+
+Sheesh:
+I couldn't figure out how to write it in Prolog (it's been too long)
+I couldn't use a truth table without getting confused or having to write out all 720 options (no thanks)
+I couldn't use a logic puzzle 2D grid - didn't even know where to start
+I couldn't even write it well in Python, it wasn't amenable to it
+I had to fall back on bash and a whole lot of ugly regexps
+The ugliest of which was expressing "Two cats are across from each other"
+
+And even THEN I couldn't get it to work without debugging it, as my grep fu is old
+(I kept forgetting when I had to use egrep instead of just grep)
+And so I had to cheat and enter the correct answer as input to figure out why the greps were broken
+
+Cat Crimes kicked my butt.
